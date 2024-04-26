@@ -1,9 +1,11 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 
-# messenger-api
+![Test Results](D:\success.png)
 
-# Mini Project Rakamin Backend Engineer
+## Version
 
-# README
-
-The challenge is make sure when you run `bundle exec rspec`, all result is green (without error):)
+- Rails v6.1.7
+- Ruby v2.7.2
+- Database postgreSQL
+- Bundle v2.1.4
+  > > > > > > > b9c642a (Initial commit)
